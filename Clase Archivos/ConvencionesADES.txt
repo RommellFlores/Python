@@ -1,0 +1,8 @@
+Convenciones:
+
+	1. Para el trabajo de archivos, siempre revisar si el archivo existe o no antes de usarlo
+	2. Las funciones y las clases, tienen sus propios módulos
+	3. Comentarios de una línea (#), máximo de 3 #
+	4. Los comentarios siempre arriba (de la función, método, clase, etc.)
+	5. Programar en español
+ 
